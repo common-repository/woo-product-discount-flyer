@@ -1,0 +1,18 @@
+form#flyer_setting .form-group {
+	width: 27%; 
+	height: 40px;
+}
+form#flyer_setting .form-group .form-control { 
+	float: right;
+}
+input.button.button-primary { 
+	margin-left: 148px !important;
+}
+table.bordered { 
+	border-collapse: collapse !important; 
+}
+table.bordered th, table.bordered td { 
+	border: 1px solid;
+	padding: 10px;
+	text-align: left;
+}
